@@ -2,6 +2,8 @@
 
 Liquid glass effect made using SVG displacement mapping. This project creates a visual effect that distorts and refracts content behind a glass-like surface, simulating the appearance of liquid or warped glass.
 
+**🌐 [Live Demo](https://liquidglassdisplacement.netlify.app/)**
+
 ![Liquid glass screenshot](public/screenshot.png)
 
 ## Tech Stack
