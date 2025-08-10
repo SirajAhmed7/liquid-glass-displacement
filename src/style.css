@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.lg-filter-utils {
+  height: 100%;
+  width: 100%;
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+}
