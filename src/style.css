@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+@theme {
+  --font-sans: "Inter", sans-serif;
+}
+
 .lg-filter-utils {
   height: 100%;
   width: 100%;
